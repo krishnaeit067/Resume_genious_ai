@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://resume-buddy-52.lovable.app/sitemap.xml
